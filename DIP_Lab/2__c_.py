@@ -15,9 +15,6 @@ if image.mode != 'L':
 
 
 
-
-
-
 image_matrix = np.array(image)
 print(image_matrix)
 plt.subplot(1,3,1)
